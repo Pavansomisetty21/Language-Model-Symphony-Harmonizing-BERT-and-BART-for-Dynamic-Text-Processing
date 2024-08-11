@@ -1,5 +1,13 @@
 # Language-Model-Symphony-Harmonizing-BERT-and-BART-for-Dynamic-Text-Processing
 In this we explore text classification, NER ,question answering using BERT and text summarization and question answering using BART
+
+
+we also explore the LLMs like 
+T5 Large,
+Ernie(chinese LLM)and 
+Pegasus
+ It can be access through the [GitHub repository](https://github.com/Pavansomisetty21/Unified-Language-Processing-with-ERNIE-T5-and-Pegasus)
+
 # BERT
 ## Introduction
 
